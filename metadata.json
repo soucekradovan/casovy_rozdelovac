@@ -1,0 +1,5 @@
+{
+  "name": "Časový rozdělovač",
+  "description": "Profesionální nástroj pro výpočet a rovnoměrné rozdělení časových úseků mezi zakázky s ohledem na přestávku na oběd.",
+  "requestFramePermissions": []
+}
